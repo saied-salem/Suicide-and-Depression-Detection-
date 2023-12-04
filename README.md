@@ -1,3 +1,3 @@
 # Suicide-and-Depression-Detection
 
-still uncompleted
+nlp suicide-and-depression detection from twitter tweets using ensemble learning
